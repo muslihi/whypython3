@@ -1,2 +1,2 @@
 # whypython3
-Python is high developed language
+Python is high developed languages
